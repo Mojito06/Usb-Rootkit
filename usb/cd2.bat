@@ -1,0 +1,1 @@
+start /min cmd /c C:\Users\lpptn\Documents\usb\cd.bat
